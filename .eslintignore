@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.cache/
+public/
+
+package.json
+tsconfig.*
+**/*.d.ts
+.eslintrc.js
+**/*.config.js
+**/*.config.ts
+*.md
